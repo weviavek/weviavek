@@ -7,7 +7,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [AppsFlyer Deep Linking &amp; Deferred Deep Linking in Flutter](https://medium.com/@we.viavek/appsflyer-deep-linking-deferred-deep-linking-in-flutter-871f08fb96ca?source=rss-9483a7b9cd03------2)
+- [AppsFlyer Deep Linking &amp; Deferred Deep Linking in Flutter](https://blog.stackademic.com/appsflyer-deep-linking-deferred-deep-linking-in-flutter-871f08fb96ca?source=rss-9483a7b9cd03------2)
 - [Simplifying Android File System Updates with the File Scan Plugin for Flutter](https://blog.stackademic.com/simplifying-android-file-system-updates-with-the-file-scan-plugin-for-flutter-032cd3c535a9?source=rss-9483a7b9cd03------2)
 - [Unlocking User Insights with the android_play_install_referrer Plugin](https://blog.stackademic.com/unlocking-user-insights-with-the-android-play-install-referrer-plugin-174fd0f27aad?source=rss-9483a7b9cd03------2)
 - [Combining GetIt and Bloc for Clean Flutter Apps](https://blog.stackademic.com/combining-getit-and-bloc-for-clean-flutter-apps-a0ee6319cbff?source=rss-9483a7b9cd03------2)
